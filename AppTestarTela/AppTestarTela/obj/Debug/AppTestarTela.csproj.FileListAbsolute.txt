@@ -1,0 +1,91 @@
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\AppTestarTela.csprojResolveAssemblyReference.cache
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\AppTestarTela.dll
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\AppTestarTela.pdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\AppTestarTela.AppTestarTela.apk
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\AppTestarTela.AppTestarTela-Signed.apk
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\AppTestarTela.dll
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\AppTestarTela.pdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\android\bin\AppTestarTela.AppTestarTela.apk
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\res\layout\testarresolucao.xml
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\res\layout\main.xml
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\res\values\strings.xml
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\res\drawable\icon.png
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\R.cs.flag
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\uploadflags.txt
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\AppTestarTela.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\Java.Interop.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\Microsoft.CSharp.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\Mono.Android.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\Mono.CSharp.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\mscorlib.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\System.ComponentModel.Composition.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\System.Core.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\System.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\System.Net.Http.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\System.Runtime.Serialization.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\System.ServiceModel.Internals.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\System.Xml.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\bin\Debug\System.Xml.Linq.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\android\assets\AppTestarTela.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\android\assets\System.Core.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\android\assets\System.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\manoel.florindo\documents\visual studio 2015\Projects\AppTestarTela\AppTestarTela\obj\Debug\AppTestarTela.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\AppTestarTela.dll
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\AppTestarTela.pdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\AppTestarTela.AppTestarTela.apk
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\AppTestarTela.AppTestarTela-Signed.apk
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\AppTestarTela.csprojResolveAssemblyReference.cache
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\AppTestarTela.dll
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\AppTestarTela.pdb
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\android\bin\AppTestarTela.AppTestarTela.apk
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\res\layout\testarresolucao.xml
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\res\layout\main.xml
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\res\values\strings.xml
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\res\drawable\icon.png
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\R.cs.flag
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\uploadflags.txt
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\AppTestarTela.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\Java.Interop.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\Mono.Android.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\Mono.CSharp.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\mscorlib.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\System.Core.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\System.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\System.Net.Http.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\System.Xml.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\android\assets\AppTestarTela.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\android\assets\System.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\Plugin.CurrentActivity.dll
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\Plugin.DeviceInfo.Abstractions.dll
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\Plugin.DeviceInfo.dll
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\Plugin.CurrentActivity.xml
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\Plugin.DeviceInfo.pdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\Plugin.DeviceInfo.xml
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\Plugin.DeviceInfo.Abstractions.pdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\Plugin.DeviceInfo.Abstractions.xml
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\Plugin.DeviceInfo.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\Plugin.DeviceInfo.Abstractions.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\android\assets\Plugin.DeviceInfo.Abstractions.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\android\assets\Plugin.DeviceInfo.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\obj\Debug\AppTestarTela.dll.mdb
+C:\Fonts\AppTestarTela\AppTestarTela\bin\Debug\AppTestarTela.dll.mdb

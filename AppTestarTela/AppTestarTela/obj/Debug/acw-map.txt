@@ -1,0 +1,8 @@
+AppTestarTela.MainActivity, AppTestarTela;md5ebc4937dcfa6c46c37e6a765ec4e87dd.MainActivity
+AppTestarTela.MainActivity, AppTestarTela, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ebc4937dcfa6c46c37e6a765ec4e87dd.MainActivity
+AppTestarTela.MainActivity;md5ebc4937dcfa6c46c37e6a765ec4e87dd.MainActivity
+apptestartela.MainActivity;md5ebc4937dcfa6c46c37e6a765ec4e87dd.MainActivity
+AppTestarTela.MainApplication, AppTestarTela;md5ebc4937dcfa6c46c37e6a765ec4e87dd.MainApplication
+AppTestarTela.MainApplication, AppTestarTela, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ebc4937dcfa6c46c37e6a765ec4e87dd.MainApplication
+AppTestarTela.MainApplication;md5ebc4937dcfa6c46c37e6a765ec4e87dd.MainApplication
+apptestartela.MainApplication;md5ebc4937dcfa6c46c37e6a765ec4e87dd.MainApplication
